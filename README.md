@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Reshma Poojary 👋</h1>
+<h1 align="center"> I'm Reshma Poojary </h1>
 
 <h3 align="center">MCA Student | Software Developer | Web Development Enthusiast</h3>
 
@@ -14,18 +14,18 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I am a dedicated MCA student with a strong foundation in programming, database management, and web development. I am interested in building efficient software solutions and continuously improving my technical skills.
 
-- 🎓 Pursuing Master of Computer Applications at NMAM Institute of Technology, Nitte.
-- 💻 Interested in software development and web technologies.
-- 🌱 Currently learning and improving my programming and development skills.
-- 🤝 Open to learning, collaboration, and new opportunities.
+- Pursuing Master of Computer Applications at NMAM Institute of Technology, Nitte.
+- Interested in software development and web technologies.
+-  Currently learning and improving my programming and development skills.
+- Open to learning, collaboration, and new opportunities.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
@@ -64,7 +64,7 @@ I am a dedicated MCA student with a strong foundation in programming, database m
 
 ---
 
-## 💼 Internship Experience
+##  Internship Experience
 
 ### Web Development Intern
 
@@ -79,21 +79,21 @@ I am a dedicated MCA student with a strong foundation in programming, database m
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🐾 Paw Heaven
+###  Paw Heaven
 
 A MERN Stack web application that allows users to view available pets, submit adoption applications, and track application status.
 
 **Technologies:** MERN Stack
 
-### 🌸 Flower Shop
+###  Flower Shop
 
 A web-based flower shop developed using HTML, CSS, and JavaScript, with MongoDB used to store product details.
 
 **Technologies:** HTML, CSS, JavaScript, MongoDB
 
-### 📋 Project Management Tool
+###  Project Management Tool
 
 A project management application developed using Ruby on Rails to manage tasks, deadlines, and team members efficiently.
 
@@ -101,7 +101,7 @@ A project management application developed using Ruby on Rails to manage tasks, 
 
 **Technologies:** Ruby on Rails
 
-### 📄 Resume Manager
+###  Resume Manager
 
 A Django-based application for creating, updating, and managing professional resumes.
 
@@ -111,7 +111,7 @@ A Django-based application for creating, updating, and managing professional res
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - Cybersecurity Fundamentals – ICT Academy
 - Fundamentals and Problem-Solving – ICT Academy
@@ -123,7 +123,7 @@ A Django-based application for creating, updating, and managing professional res
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Programming and problem-solving
 - Web development
@@ -132,7 +132,7 @@ A Django-based application for creating, updating, and managing professional res
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/reshma-poojary-38ab11409/">
@@ -143,8 +143,6 @@ A Django-based application for creating, updating, and managing professional res
   </a>
 </p>
 
----
 
-<p align="center">
-  ⭐ Thank you for visiting my profile!
-</p>
+
+
