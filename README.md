@@ -57,7 +57,7 @@ I am a dedicated MCA student with a strong foundation in programming, database m
 
 | Qualification | Institution | Score |
 |---|---|---|
-| Master of Computer Applications | NMAM Institute of Technology, Nitte | SGPA 8.58/10 |
+| Master of Computer Applications | NMAM Institute of Technology, Nitte | CGPA 8.56/10 |
 | Bachelor of Computer Applications | Dr. NSAM First Grade College, Nitte | CGPA 9.68/10 |
 | Pre-University | S.N.V PU College, Hiriyangadi, Karkala | 95.67% |
 | SSLC | Govt Junior College, Bajagoli | 75.52% |
