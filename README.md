@@ -53,7 +53,7 @@ I am a dedicated MCA student with a strong foundation in programming, database m
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Qualification | Institution | Score |
 |---|---|---|
